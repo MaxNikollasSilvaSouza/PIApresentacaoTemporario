@@ -1,0 +1,27 @@
+.carrossel
+{
+  margin-top: 2%;
+  margin-bottom: 2%;  
+}
+.padrao_cards
+{
+    margin: 0.7%;
+   border-radius: 3%;
+   width: 100%;
+   
+  
+}
+
+.container_cards
+{
+    display:flex;
+    flex-wrap:wrap;   
+    align-items: center;
+    background-color: darkorange;
+    
+}
+.btvalor
+{
+  width: 100%;
+  text-align: center;
+}

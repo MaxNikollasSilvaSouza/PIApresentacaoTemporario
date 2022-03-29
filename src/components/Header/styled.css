@@ -1,0 +1,63 @@
+
+
+.padding_zero
+{
+    padding: 0%;
+}
+
+.padrao_barra_pesquisa
+{
+    display: flex;
+    padding: 2%;   
+}
+
+.input_text
+{
+    margin: 1%;
+}
+
+.select
+{
+    display: flex;   
+}
+.form_select
+{
+    margin-left: 2%;
+    width: 100%;
+    margin-bottom: 2%;
+}
+.opcoes
+{
+    margin-left: 5%;
+    margin-right: 5%
+}
+
+.cabecalho
+{
+ padding: 0%;
+ background-color: aqua;
+}
+
+.cadastrar_entrar
+{
+   
+    vertical-align: bottom;
+}
+.bt_procurar
+{
+    height: 15%;
+    margin-top: 1%;
+}
+
+.row_opcoes
+{
+    justify-content: center;
+    
+}
+
+.link_cadastro
+{
+    margin-left: 5%;
+    display: flex;
+    padding: 0%;
+}
