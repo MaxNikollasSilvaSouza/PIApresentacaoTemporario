@@ -1,0 +1,38 @@
+.esquerda
+{
+    border: groove;
+width: 25%;
+margin-top: 3%;
+}
+
+#tabela
+{
+width: 100%;
+text-align: center;
+
+}
+
+#direita
+{
+background-color: white;
+}
+
+.botoes
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.lado_esquerdo
+{
+  
+width: 25%;
+margin-top: 3%;
+}
+
+.dadosProd
+{
+
+}
