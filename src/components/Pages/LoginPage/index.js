@@ -4,7 +4,7 @@ import "./styled.css";
 
 const LoginPage = () => {
 
-    const axios = require('axios')
+
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
    
@@ -19,13 +19,7 @@ const LoginPage = () => {
             'EMAIL': email,
             'SENHA': password
         }
-        let response = await axios.post('http://127.0.0.1:5000/logar', body)
-
-        if (response){
-            console.log(response.data)
-        } else {
-            login(email, password)
-        }
+        
     }
 
     return (
